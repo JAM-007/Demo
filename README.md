@@ -1,1 +1,2 @@
 This data contains the name for 1895 games with 34 ESRB rating content with the name and console as features for each game. There are 4 different ratings a game can be given: E, ET, T, or M. The 34 ESRB ratings are represented in binary. 1 for being present and 0 for not being present. I was provided with 2 files. One for training my models on and the other for testing. The models I chose for this dataset are Logistic Regression, Support Vector Machine, Decision Tree, RandomForestClassifier & K Nearest Neighbors. 
+
